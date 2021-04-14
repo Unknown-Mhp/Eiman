@@ -1,4 +1,11 @@
 <!doctype html>
+<html>
+<head>
+<style>
+  * {
+    dirction:rtl;
+  }
+</style>
 <body>
   <p>
 .فونت ایمان یک فونت برگرفته از فونت وزیر آقای صابر راستی کردار است
